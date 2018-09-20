@@ -1,4 +1,5 @@
 py2:
+    name: "Firefox"
     box: python:2
     steps:
         - install-packages:
